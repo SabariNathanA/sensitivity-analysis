@@ -1,3 +1,5 @@
+% This was one of the experiments conducted. In this, the optimal algorithm (perfect prediction) was augmented with OLLA 
+
 clear;
 
 load('bler_snr_256QAM', 'bler_snr_256');
